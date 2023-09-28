@@ -10,8 +10,8 @@ const char* ssid = "Home Security";
 const char* password = "Pritam69";
 
 
-#define BOTtoken ""      // created a bot token id from telegram app and pasted over here
-#define CHAT_ID ""       // created a chat id from telegram app and pasted over here
+#define BOTtoken ""      // created a bot token from the telegram app and pasted it over here
+#define CHAT_ID ""       // created a chat ID from the telegram app and pasted it over here
 
 #define Sensor D0
 #define LEDR D3
